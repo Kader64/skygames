@@ -1,0 +1,77 @@
+section
+{
+    width: 900px;
+}
+.error
+{
+    font-size: 15px;
+    color: red;
+    margin-bottom: 20px; 
+}
+#title
+{
+    font-size: 38px;
+    color: yellow;
+    margin: 40px 0px 20px 0px;
+}
+form
+{
+    font-size: 25px; 
+    margin-top: 20px; 
+}
+form input
+{
+    font-family: Regular;
+    border: 2px solid #003249;
+    margin-bottom: 5px; 
+    font-size: 18px;
+    width: 280px; 
+    padding: 3px 2px;
+}
+.g-recaptcha
+{
+    display: table;
+    margin: auto;
+    margin-bottom: 8px;
+}
+#reg-log
+{
+    color: yellow;
+    font-size: 20px;
+    margin-top: 10px;
+}
+input[type='submit']
+{ 
+    background-color: #1FD6A5;
+    font-size: 20px;
+    border-radius: 2px;
+    width: 290px;
+    margin-top: 10px;
+    padding: 10px;
+}
+input[type=submit]:hover
+{
+    background-color: #00fdba;
+}
+label
+{
+    font-size: 20px;
+}
+input[type="checkbox"]
+{
+    width: 35px;
+    margin-bottom: 20px;
+}
+@media screen and (max-width: 910px) 
+{
+    section
+    {
+        background: var(--footerColor--);
+        width: 100%;
+        border: 0;
+    }
+    #button-cloud
+    {
+        display: none;
+    }
+}

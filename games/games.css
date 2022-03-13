@@ -1,0 +1,146 @@
+#game-container
+{
+    position: relative;
+    width: 100%;
+    top: 50px;
+    margin: 0 auto;
+}
+#main-title
+{
+    position: relative;
+    margin-bottom: 10px;
+    height: 45px;
+    padding: 25px 40px 20px 40px;
+    text-align: left;
+}
+#slide-down
+{
+    position: absolute;
+    left: 84.5%;
+    font-size: 15px;
+    width: 280px;
+    height: 80px;
+    padding: 5px;
+    background-color: rgb(248, 101, 126);
+}
+.hide
+{
+    display: none;
+}
+#game-box
+{
+    position: relative;
+    margin: 0 auto;
+}
+#title
+{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+}
+#rating
+{
+    margin-top: 10px;
+    float: right;
+}
+#addFavourite
+{
+    position: relative;
+    float: right;
+    background-color: hotpink;
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.3);    
+}
+#addFavourite:hover
+{
+    background-color: rgb(253, 145, 199);
+}
+#addFavourite img
+{
+    position: relative;
+    top: 8px;
+    width: 80%;
+}
+.stars,#like,#dislike
+{
+    display: inline-block;
+}
+#likes
+{
+    background-color: #1FD6A5;
+    border-radius: 40px;
+    float: right;
+    margin-left: 10px;
+    padding: 8px 15px;
+    box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.3);    
+}
+#like:hover,#dislike:hover
+{
+    background-color: #17f5ba;
+    border-radius: 40px;
+}
+#like
+{
+    margin-right: 5px;
+    cursor: pointer;
+}
+#dislike
+{
+    transform: rotate(180deg);
+    cursor: pointer;
+}
+#creator
+{
+    position: relative;
+    padding: 5px;
+    top: 90px;
+    right: 50px;
+    font-size: 25px;
+    min-width: 400px;
+    float: right;
+    background-color: #007ced;
+    box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.3); 
+    border-radius: 5px;
+}
+canvas
+{
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #007ced;   
+    box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.3);   
+}
+section
+{
+    width: 1300px;
+}
+@media screen and (max-width: 1300px) 
+{
+    section
+    {
+        background: #00B8F5;
+        border: 0;
+        width: 100%;
+    }
+    #button-cloud
+    {
+        display: none;
+    }
+}
+@media screen and (max-width:800px)
+{
+    .buttons
+    {
+        clear:both;
+        float: left;
+        margin-bottom: 5px;
+    }
+    #header-logo
+    {
+        position: relative;
+    }
+}

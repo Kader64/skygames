@@ -1,0 +1,187 @@
+section
+{
+    padding-top: 20px;
+    width: 1200px;
+}
+#main
+{
+    height: 500px;
+}
+#profile-div-main
+{
+    position: relative;
+    float: left;
+    top: 8px;
+    left: 6%;
+    width: 300px;
+    height: 400px;
+
+}
+#profile-div
+{
+    position: relative;
+    background-color: #32cbf1;
+    border-radius: 2px;
+    border: 4px solid #ffffff;
+    width: 300px;
+    height: 300px;
+}
+#profile-info-main
+{
+    position: relative;
+    margin-left: 38%;
+    top: 90px;
+}
+.profile-info
+{
+    width: 400px;
+    font-size: 20px;
+    text-align: left;
+    padding: 5px;
+    margin-bottom: 40px;
+    background-color: rgb(8, 87, 87);
+    border: 2px solid #ffffff;
+}
+#profile-img
+{
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    image-rendering: auto;
+    border-radius: 0;
+}
+#logout
+{
+    font-size: 22px;
+    float: right;
+    width: 140px;
+    height: 45px;
+    margin-right: 25px;
+    background-color: #1FD6A5;
+    border: 2px solid #003249;
+}
+#file-form
+{
+    position: relative;
+    clear: both;
+    top: 10px;
+    float: left;
+    left: 8%;
+}
+#file-form input[type=file]
+{
+    margin: 10px 0px;
+    font-size: 16px;
+}
+#file-form input[type=submit]
+{
+    font-size: 18px;
+    margin-right: 45px;
+    height: 36px;
+    width: 105px;
+    background-color: #1FD6A5;
+    border: 2px solid #003249;
+}
+#logout:hover, #file-form input[type=submit]:hover
+{
+    background-color: #00fdba;
+}
+#favourite-div
+{
+    width: 85%;
+    min-height: 200px;
+    border: 4px solid #ffffff;
+    margin: 0 auto;
+    box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.3);  
+}
+#span-info
+{
+    margin-left: 10%;
+}
+#span-fav
+{
+    position: relative;
+    top: 30px;
+    font-size: 20px;
+}
+#e_file
+{
+    font-size: 15px;
+    margin-left: -30px;
+    color: red;
+}
+#favourite-title
+{
+    margin: 2px;
+    font-size: 25px;
+}
+.game-ul li
+{
+    width: 24%;
+}
+@media screen and (max-width: 1300px) 
+{
+    section
+    {
+        background: #00B8F5;
+        border: 0;
+        width: 100%;
+    }
+    #button-cloud
+    {
+        display: none;
+    }
+}
+@media screen and (max-width:950px)
+{
+    #profile-div-main
+    {
+        float: none;
+        margin: 0 auto;
+        left: 0%;
+    }
+    #profile-info-main
+    {
+        margin: 0 auto;
+    }
+    .profile-info
+    {
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    #main
+    {
+        height: 800px;;
+    }
+    .game-ul li
+    {
+        width: 32.3%;
+    }
+}
+@media screen and (max-width:660px)
+{
+    #logout
+    {
+        float: none;
+        margin: 0 auto;
+    }
+    .game-ul li
+    {
+        width: 48%;
+        margin: 0.5% !important;
+    }
+}
+@media screen and (max-width:800px)
+{
+    .buttons
+    {
+        clear:both;
+        float: left;
+        margin-bottom: 5px;
+    }
+    #header-logo
+    {
+        position: relative;
+    }
+}
