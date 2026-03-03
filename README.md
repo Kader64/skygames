@@ -46,6 +46,49 @@ Dane użytkowników, oceny oraz lista ulubionych gier są przechowywane w bazie 
 
 ---
 
+## 🛠️ Użyte technologie
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br/>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br/>
+<b>CSS3</b>
+</td>
+
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br/>
+<b>JavaScript</b><br/>
+<sub>Canvas</sub>
+</td>
+
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/><br/>
+<b>PHP</b>
+</td>
+
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br/>
+<b>SQL Database</b>
+</td>
+
+<td align="center" width="150">
+<img src="https://www.phpmyadmin.net/static/images/logo-og.png" width="60"/><br/>
+<b>phpMyAdmin</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🗄️ Baza danych
 
 Projekt wykorzystuje relacyjną bazę danych SQL do przechowywania:
@@ -55,12 +98,7 @@ Projekt wykorzystuje relacyjną bazę danych SQL do przechowywania:
 - listy ulubionych gier  
 - danych gier  
 
-Do zarządzania bazą używany jest **phpMyAdmin**.
-
 ---
 
-## 🛠️ Użyte technologie
-
-### Frontend
 ```html
 HTML5
