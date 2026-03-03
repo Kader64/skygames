@@ -65,7 +65,6 @@ Dane użytkowników, oceny oraz lista ulubionych gier są przechowywane w bazie 
 <td align="center" width="150">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br/>
 <b>JavaScript</b><br/>
-<sub>Canvas</sub>
 </td>
 
 <td align="center" width="150">
