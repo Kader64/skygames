@@ -23,7 +23,7 @@ Każda gra posiada własną podstronę oraz system ocen.
 Przykładowe gry dostępne w serwisie:
 - 2048  
 - Szachy (Chess)  
-- Wisielec  
+- Saper  
 - Ping-Pong  
 - King of Ladders  
 - Memory  
