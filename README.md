@@ -97,3 +97,15 @@ Projekt wykorzystuje relacyjną bazę danych SQL do przechowywania:
 - listy ulubionych gier  
 - danych gier  
 
+
+<div align="center">
+<img width="32%" alt="obraz" src="https://github.com/user-attachments/assets/b99332ed-068c-4dc5-ac0c-a7ab8d8615ad" />
+<img width="32%" alt="obraz" src="https://github.com/user-attachments/assets/6c480c66-7568-4d79-8752-aa9cca25c538" />
+<img width="32%" alt="obraz" src="https://github.com/user-attachments/assets/3d95f2a4-e8ab-4816-9595-ddb602dfcc37" />
+</div>
+
+
+### 🔎 Opis screenshotów
+- **Home** – Strona główna z podziałem na Najnowsze i Najlepiej oceniane gry  
+- **Gameplay** – Przykładowa rozgrywka w grę opartą na Canvas  
+- **Profil** – Panel użytkownika z ulubionymi grami i ocenami  
