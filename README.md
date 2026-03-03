@@ -18,15 +18,25 @@ Każda gra posiada własną podstronę oraz system ocen.
 
 ---
 
-## 📸 Galeria projektu
-<div align="center">
-  <img margin-left="10px" width="40%" height="931" alt="obraz" src="https://github.com/user-attachments/assets/81433c04-a3ff-4a82-82b6-392a144d8c72" />
-  <img width="40%" height="931" alt="obraz" src="https://github.com/user-attachments/assets/84982813-941e-46c4-a917-0f884e7bdfc2" />
-</div>
+## 📸 Podgląd projektu
 
-<p align="center">
-Widok strony głównej • Podstrona gry
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <img width="500px" height="931" alt="obraz" src="https://github.com/user-attachments/assets/81433c04-a3ff-4a82-82b6-392a144d8c72" /><br/>
+<b>Strona główna</b>
+</td>
+
+<td align="center">
+  <img width="500px" height="931" alt="obraz" src="https://github.com/user-attachments/assets/84982813-941e-46c4-a917-0f884e7bdfc2" /><br/>
+<b>Podstrona gry</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
