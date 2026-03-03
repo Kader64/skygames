@@ -19,9 +19,9 @@ Każda gra posiada własną podstronę oraz system ocen.
 ---
 
 ## 📸 Galeria projektu
-
-<img width="1906" height="931" alt="obraz" src="https://github.com/user-attachments/assets/81433c04-a3ff-4a82-82b6-392a144d8c72" />
-
+<div align="center">
+  <img width="600" height="931" alt="obraz" src="https://github.com/user-attachments/assets/81433c04-a3ff-4a82-82b6-392a144d8c72" />
+</div>
 
 <p align="center">
 Widok strony głównej
