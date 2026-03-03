@@ -97,7 +97,3 @@ Projekt wykorzystuje relacyjną bazę danych SQL do przechowywania:
 - listy ulubionych gier  
 - danych gier  
 
----
-
-```html
-HTML5
