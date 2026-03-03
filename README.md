@@ -99,9 +99,8 @@ Projekt wykorzystuje relacyjną bazę danych SQL do przechowywania:
 
 ---
 
-<img  height="500" alt="obraz" src="https://github.com/user-attachments/assets/b99332ed-068c-4dc5-ac0c-a7ab8d8615ad" />
-<img  height="500" alt="obraz" src="https://github.com/user-attachments/assets/6c480c66-7568-4d79-8752-aa9cca25c538" />
-<img  height="500" alt="obraz" src="https://github.com/user-attachments/assets/3d95f2a4-e8ab-4816-9595-ddb602dfcc37" />
+<img align="center" width="60%" alt="obraz" src="https://github.com/user-attachments/assets/b99332ed-068c-4dc5-ac0c-a7ab8d8615ad" />
+
 
 
 
